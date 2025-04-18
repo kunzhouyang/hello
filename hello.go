@@ -7,5 +7,5 @@ func SayHi(name string) {
 }
 
 func ShowVersion() {
-	fmt.Printf("当前版本号：V%s", "0.0.2")
+	fmt.Printf("当前版本号：V%s\n", "2.0.2")
 }
